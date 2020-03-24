@@ -37,7 +37,7 @@
         "omnipay/gocardless": "dev-master",
         "omnipay/mollie": "3.*",
         "omnipay/omnipay": "~2.3",
-        "omnipay/payfast": "dev-master",
+        "omnipay/payfast": "~2.0",
         "omnipay/stripe": "~2.0",
         "softcommerce/omnipay-paytrace": "~1.0",
         "vink/omnipay-komoju": "~1.0"
